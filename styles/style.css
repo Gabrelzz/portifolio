@@ -153,4 +153,8 @@ body{
     .apresentacao__conteudo{
         width: auto;
     }
+    .foto__principal{
+        padding: 40% 0% 0% 0%;
+        justify-content: center;
+    }
 }
